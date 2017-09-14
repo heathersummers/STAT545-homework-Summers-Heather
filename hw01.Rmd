@@ -4,12 +4,13 @@ Hello, my name is ***Heather*** and I am from Hamilton, Ontario, Canada! I recen
 - Scuba diving (currently a __PADI Divemaster!__) 
 - Canoe camping
 - Hiking
-- Cycling :bike: 
-- Running :shoe: 
-- Swimming 
+- Cycling :bicyclist: 
+- Running :runner: 
+- Swimming :swimmer:
+- Skiing :ski:
 - Spending time with friends and family :family: 
 
-### Places I have visited:
+### Places I have visited::earth_americas:
 - Bahamas
 - Belgium
 - Cuba
