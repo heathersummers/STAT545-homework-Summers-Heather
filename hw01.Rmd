@@ -1,18 +1,5 @@
+![](https://c2.staticflickr.com/6/5598/15666723002_d9ee7d4778_b.jpg)
 
-### Hello, my name is __Heather__ and I am from Hamilton, Ontario, Canada! I recently graduated with an Honours Bachelor of Science from the Integrated Science program at McMaster University with a biology concentration. I am an MSc student in the Department of Geograpghy working under the supervision of Dr. Simon Donner. I will be pursuing research on climate change and the impact that it has on coral reef biomes. 
-
-![](/Desktop/iSci_2017.png)
-
-#### Interests outside school:
-- Scuba diving (currently a **PADI Divemaster!**) 
-- Canoe camping
-- Hiking
-- Cycling
-- Running
-- Swimming
-
-## Places I have visited:
-=======
 Hello, my name is ***Heather*** and I am from Hamilton, Ontario, Canada! I recently graduated with an Honours Bachelor of Science from the Integrated Science program at McMaster University with a biology concentration. I am an MSc student in the Department of Geograpghy working under the supervision of Dr. Simon Donner. I will be pursuing research on climate change and the impact that it has on coral reef biomes. 
 
 ### Research Experience:memo:
@@ -30,7 +17,6 @@ studying the unique geology and environment of Iceland, to the health of the cor
 - Spending time with friends and family :family:
 
 ### Places I Have Visited:airplane::earth_americas:
->>>>>>> 19e95fa500a4c2f94c88e46ca0814974861645b6
 - Bahamas
 - Belgium
 - Cuba
@@ -47,7 +33,6 @@ studying the unique geology and environment of Iceland, to the health of the cor
     - South Carolina
 
 ## Favourite Quote :speech_balloon:
-
 > "The sea, once it casts its spell, holds one in its net of wonder forever."
 >
 > Jacques Yves Cousteau
