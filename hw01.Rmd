@@ -10,7 +10,7 @@ Hello, my name is ***Heather*** and I am from Hamilton, Ontario, Canada! I recen
 - Skiing :ski:
 - Spending time with friends and family :family: 
 
-### Places I have Visited:airplane::earth_americas:
+### Places I Have Visited:airplane::earth_americas:
 - Bahamas
 - Belgium
 - Cuba
