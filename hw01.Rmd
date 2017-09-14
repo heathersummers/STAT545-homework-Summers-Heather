@@ -1,7 +1,7 @@
 Hello, my name is ***Heather*** and I am from Hamilton, Ontario, Canada! I recently graduated with an Honours Bachelor of Science from the Integrated Science program at McMaster University with a biology concentration. I am an MSc student in the Department of Geograpghy working under the supervision of Dr. Simon Donner. I will be pursuing research on climate change and the impact that it has on coral reef biomes. 
 
 ### Interests outside school:
-- Scuba diving (currently a ***PADI Divemaster!***) 
+- Scuba diving (currently a __PADI Divemaster!__) 
 - Canoe camping
 - Hiking
 - Cycling
