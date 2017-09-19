@@ -44,4 +44,7 @@ Conducting field research on the island of Eleuthera in the Bahamas.
 - [STAT545 Syllabus](http://stat545.com/syllabus.html)
 - [Slack Sign In](https://slack.com/signin)
 
+###Reflection
+I found it very easy to edit the README.md and add different aspects of the Markdown syntax such as section headers, bold, bullet points, images, emojis, and quotes. I found this [link] (https://gist.github.com/rxaviers/7360908) very helpful in creating the emojis since it provided a complete list of github markdown emojis. At the start I edited locally and then pushed to github.com and then when I wanted to make small changes I would edit in the browser at github.com. However, I learned later on some of the issues that can arise when doing that such as having to merge the two versions. After having an issue merging information I completed the rest of the edits locally by saving the README.md file, commiting any changes to my repository, and then pushing the commit to github.com. I made all edits locally for the R Markdown document and did not find it difficult adding new plots or code. 
+
 
