@@ -39,5 +39,7 @@ ncol(gapminder)
 length(gapminder)
 dim(gapminder)
 nrow(gapminder)
+summary(gapminder)
+plot(lifeExp~year,gapminder)
 ```
 
