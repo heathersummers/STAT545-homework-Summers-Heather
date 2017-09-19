@@ -18,6 +18,32 @@ dim(gapminder)
 nrow(gapminder)
 summary(gapminder)
 plot(lifeExp~year,gapminder)
-plot(lifeExp~continent,gapminder)
+plot (lifeExp ~ gdpPercap, gapminder)
+plot(lifeExp~log(gdpPercap),gapminder)
+head(gapminder$lifeExp)
+summary(gapminder$lifeExp)
+hist(gapminder$lifeExp)
+summary(gapminder$year)
+table(gapminder$year)
+class(gapminder$continent)
+summary(gapminder$continent)
+levels(gapminder$continent)
+nlevels(gapminder$continent)
+str(gapminder$continent)
+table(gapminder$continent)
+barplot(table(gapminder$continent))
 ```
+
+##Exploring the gapminder package:
+
+```{r}
+plot(lifeExp~continent,gapminder)
+plot(pop~country,gapminder)
+plot(pop~continent,gapminder)
+hist(gapminder$gdpPercap)
+summary(gapminder$country)
+summary(gapminder$gdpPercap)
+summary(gapminder$pop)
+```
+
 
