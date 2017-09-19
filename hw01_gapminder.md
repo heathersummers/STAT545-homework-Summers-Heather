@@ -139,3 +139,9 @@ plot(lifeExp~year,gapminder)
 ```
 
 ![](hw01_gapminder_files/figure-markdown_github-ascii_identifiers/unnamed-chunk-1-1.png)
+
+``` r
+plot(lifeExp~continent,gapminder)
+```
+
+![](hw01_gapminder_files/figure-markdown_github-ascii_identifiers/unnamed-chunk-1-2.png)
